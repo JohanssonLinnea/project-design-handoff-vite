@@ -14,9 +14,9 @@ const WelcomePage = () => {
           <img src={Logo} alt="Logotype" className="logo"/>
           <ul className="nav-list">
             <li><Link to="/about">{t('ABOUT US')}</Link></li>
-            <li><a href="/about">{t('EXPLORE')}</a></li>
-            <li><a href="/about">{t('SCHEDULE')}</a></li>
-            <li><a href="/about">{t('PRICES')}</a></li>
+            <li><Link to="/about">{t('EXPLORE')}</Link></li>
+            <li><Link to="/about">{t('SCHEDULE')}</Link></li>
+            <li><Link to="/about">{t('PRICES')}</Link></li>
           </ul>
         </div>
       <div className="content">
