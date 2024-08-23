@@ -8,7 +8,7 @@
 
 ### View it live
 
-https://regal-trifle-509ba6.netlify.app/
+https://s-yoga.netlify.app/
 
 
 
